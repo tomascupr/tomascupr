@@ -11,8 +11,8 @@ Serial founder — **Slevomat → Dáme Jídlo → Rohlik Group** — now expl
 - **Making life easier**: whether it’s daily‑deal bargains, hot meals on demand or same‑day groceries, the goal is fewer errands and more living.
 
 ## 🤖 Meet the “team”
-Codex
-Claude
+Codex,
+Claude,
 Devin
 
 🙋 Humans still have seats at the table — mostly to ask better questions and unplug things when they catch fire.
